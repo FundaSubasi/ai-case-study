@@ -32,9 +32,9 @@ Utilizing technologies such as AI for personalized recommendations and AR/VR for
 IKEA's journey from a small mail-order business to a global leader in the furniture industry is a testament to its relentless pursuit of innovation and customer satisfaction. The company's foray into AI-driven personalized shopping experiences marks a new chapter in its story, one that promises to redefine the retail landscape. As IKEA continues to embrace new technologies and trends, it remains not just a furniture retailer but a beacon of innovation in the ever-evolving world of retail.
 
 ## Sources
-[Ikea Privacy Policy](https://www.ikea.com/us/en/customer-service/privacy-policy/ ikea-gpt-notice-concerning-your-privacy-pub10e40080)
-[IKEA ChatGPT] https://chat.openai.com/g/g-4DZ3fQDVL-ikea?utm_source=gptshunter.com
-[Adobo Magazine on IKEA AI Assistant: Adobo Magazine] https://www.adobomagazine.com/brand-business/ikea-ai-assistant-openai-gpt-store-launch/
-[RRetail Insight Network on IKEA and AI: Retail Insight Network] https://www.retail-insight-network.com/news/ikea-retail-ai-gpt-store/
-[Digital Commerce 360 on IKEA's Generative] https://www.digitalcommerce360.com/2024/02/06/ikea-launches-generative-ai-assistant/
-[Science 4 Data] https://science4data.com/ikea-launches-ai-assistant-for-personalized-shopping-experience/
+[Ikea Privacy Policy](https://www.ikea.com/us/en/customer-service/privacy-policy/ikea-gpt-notice-concerning-your-privacy-pub10e40080)
+[IKEA ChatGPT](https://chat.openai.com/g/g-4DZ3fQDVL-ikea?utm_source=gptshunter.com)
+[Adobo Magazine on IKEA AI Assistant: Adobo Magazine](https://www.adobomagazine.com/brand-business/ikea-ai-assistant-openai-gpt-store-launch/)
+[RRetail Insight Network on IKEA and AI: Retail Insight Network](https://www.retail-insight-network.com/news/ikea-retail-ai-gpt-store/)
+[Digital Commerce 360 on IKEA's Generative](https://www.digitalcommerce360.com/2024/02/06/ikea-launches-generative-ai-assistant/)
+[Science 4 Data](https://science4data.com/ikea-launches-ai-assistant-for-personalized-shopping-experience/)
